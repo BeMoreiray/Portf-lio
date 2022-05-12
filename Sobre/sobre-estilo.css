@@ -1,0 +1,20 @@
+body{
+    background: url(../img/bg-img.jpg);    
+    }
+
+
+#menu{
+    height: 142px;
+    
+}
+
+#nav-principal li a{
+   
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Long Island;
+
+
+}
